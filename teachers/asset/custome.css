@@ -1,0 +1,41 @@
+/*start navbar*/
+nav {
+height: 75px;
+background-color: #fff!important;
+
+}
+.navbar-brand {
+ padding:0px;
+ padding-left:75px;
+
+}
+.nav-img {
+ height: 44px;
+ width: 95px;
+}
+.my-nav ul {
+	padding-right:75px;
+}
+.nav-item button:hover {
+ background-color: #96c93d ! important;
+ cursor: pointer;
+  
+}
+.nav-item a:hover {
+ background-color: #96c93d ! important;
+ cursor: pointer;
+}
+.navbar-nav .nav-link {
+  font-size: 15px;
+  margin-left: 15px;
+  border-radius: 50px;
+  font-weight: 400px;
+}
+.nav-link.active {
+  width: 150px;
+  background-color: #96c93d;
+  text-align: center;
+  border-radius: 5px;
+  color: #fff!important;
+  font-weight: bold;
+}

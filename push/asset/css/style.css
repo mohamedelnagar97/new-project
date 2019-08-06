@@ -1,0 +1,266 @@
+
+.header_right {
+	background-color:#38a34d;
+	margin: -20px ;
+}
+.header_right ul{
+	list-style-type: none;
+	margin-right: 100px;
+	padding: 0;
+	overflow: hidden;
+	height: 50px;
+	}
+.header_right a{
+	color: #fff;
+    display: block;
+    text-align: center;
+    padding: 8px ;
+    padding-top: 18px;
+    text-decoration: none;
+}
+.header_right li{
+	float: right;
+}
+.logo-en-white{
+padding-left:106px;
+padding-top:30px;
+}
+.header-lift{
+	background-color:#074809;
+	margin: -15px;
+}
+.ul-left{
+		float:right;
+	list-style-type: none;
+	overflow: hidden;
+	height: 50px;
+	padding-right:375px;
+	padding-top:4px;
+
+
+}
+.header-lift li{
+
+	float: left;
+	padding:15px;
+
+}
+.ul-left a{
+	display: block;
+	color: #fff;
+    text-align: center;
+    padding: 8px ;
+    padding-top: 18px;
+    text-decoration: none;
+}
+.section1{
+	background-image:url(../image/image.jpg);
+	background-repeat: no-repeat;
+	margin:-10px;
+	margin-top:-165px;
+	background-position: center; 
+	background-size: cover;
+
+}
+.section1 h1{
+	color: #fff;
+	padding-top:175px;
+	padding-left:100px;
+	font-size:70px;
+	letter-spacing: 8px;
+
+}
+.section1 p{
+	color: #fff;
+	padding-left:100px;
+	padding-top:10px;
+	font-size:40px
+}
+.buttons{
+	padding-left:100px;
+	padding-top:10px;
+	padding-bottom:150px;
+}
+.button1{
+	text-align:center;
+	height:60px;
+	width:225px;
+	background-color:#5bb365;
+	color:#fff;
+	border:0;
+	border-radius: 2px;
+
+}
+.button2{
+	text-align:center;
+	height:60px;
+	width:225px;
+	color:#fff;
+	border:0;
+	background:none;
+	border:1px solid;
+	border-color:#ffffff;
+	border-radius: 2px;
+	margin-left:20px;
+
+}
+.button2 a {
+	color: #fff;
+	text-decoration: none;
+}
+.section2{
+	background-color:#fff;
+
+}
+.section2 h1{
+	font-size:30px;
+	letter-spacing: 0;
+	text-align:center;
+color:#06f106;
+padding-top:75px
+}
+.main_logo{
+
+}
+.logo{
+	width:410px;
+	padding:15px;   
+ text-align:center;
+    height: 300px;
+    margin-right:4px;
+    margin-top:8px;
+    	float:left;
+    display: block;
+}
+
+
+.main_about_us{
+	background-image: url("../image/about.png");
+	background-position: center;
+    background-size: cover;
+	height:400px;
+	margin-left:-10px;
+	margin-right:-15px;
+	padding-bottom:70px	
+
+	}
+.about_us_left{
+	padding-left: 100px;
+	display: inline-block;
+	float: left;
+	width: 400px;
+	padding-top:60px;
+}
+.about_us_right{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #fbf8f8;
+	float: right;
+	width: 500px;
+	padding-right:320px;
+	text-align:left;
+	padding-top:30px;
+	line-height: 30px;
+	
+}
+.about_us_right p{
+	width:680px;
+	font-size:15px;
+   padding-top:15x;
+
+
+}
+.our_networks{
+	margin-top: 50px;
+text-align: center;
+}
+.our_networks p{
+	font-size: 20px;
+}
+.ph_our_network{
+	float: left;
+	display: inline-block;
+	padding-bottom:100px;
+
+}
+.ph_our_network img{
+	height:150px;
+	width: 130px;
+	padding-left:100px;
+	padding-right:50px;
+	padding-top:50px;
+
+}
+.footer{
+	background-color: #1b1b1b;
+	color: #fff;
+	float: right;
+	display: inline-block;
+	width: 1351px;
+	margin-right:-10px
+
+}
+.footer span{
+	text-decoration:underline;
+	}
+.footer_elements{
+width: 150px;
+float: left;
+padding-top:50px;
+padding-left:120px;
+padding-bottom:50px;
+
+
+}
+.f_footer{
+	background-color: #000000;
+	display: inline-block;
+	float: left;
+	color:#f7ffff;
+	width:1351px;
+	margin-left:-10px;
+	margin-right:-200px;
+	height:25px;
+padding-bottom:15px;
+
+}
+.footer_elements_left{
+width: 250px;
+display:inline-block;
+padding-left:100px;
+
+
+}
+.footer_elements_right{
+width: 300px;
+float:right;
+padding-right:100px;
+}
+.main-features .title{
+    text-align: center;
+    margin: 30px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+.main-features .features .feature {
+    width: 30%;
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    vertical-align: top;
+}
+.main-features .features .feature  img{
+	height: 88px;
+    width: 94px;
+    object-fit: contain;
+}
+.main-features .features .feature  h1{
+	margin: 10px 0;
+    color: #5cb366;
+}
+.main-features .features .feature  p{
+	margin: 25px 15px;
+    line-height: 21px;
+}

@@ -1,0 +1,352 @@
+/*start navbar*/
+nav {
+height: 75px;
+background-color: #fff!important;
+
+}
+.navbar-brand {
+ padding:0px;
+ padding-left:75px;
+
+}
+.nav-img {
+ height: 44px;
+ width: 95px;
+}
+.my-nav ul {
+	padding-right:75px;
+}
+.nav-item button:hover {
+ background-color: #96c93d ! important;
+ cursor: pointer;
+  
+}
+.nav-item a:hover {
+ background-color: #96c93d ! important;
+ cursor: pointer;
+}
+.navbar-nav .nav-link {
+  font-size: 15px;
+  margin-left: 15px;
+  border-radius: 50px;
+  font-weight: 400px;
+}
+.nav-link.active {
+  width: 150px;
+  background-color: #96c93d;
+  text-align: center;
+  border-radius: 5px;
+  color: #fff!important;
+  font-weight: bold;
+}
+body {
+  background-color: #fafafa!important;
+}
+/*start teacher-info*/
+.teacher-info {
+  background-color:#fafafa;
+  margin:125px 95px 125px 100px;
+}
+.teacher-info-left {
+  text-align:center;
+  height:500px;
+  padding:50px 0 25px 0;
+
+background-color:white;
+}
+.teacher-info-left img {
+  height:140px;
+  width:140px;
+  border-radius:100px;
+
+}
+.teacher-info-left h2 {
+  color: #1e3148;
+  font-weight: 500;
+  padding:25px 0 5px 0 ;
+}
+.teacher-info-left ul {
+list-style-type: none;
+list-style: none;
+display:inline-block;
+}
+.teacher-info-left ul li {
+  display:inline-block;
+ 
+}
+.teacher-info-left-span-black {
+  color: #9b9b9b;
+    font-family: GothamRounded-Book;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 0 10px;
+}
+.checked {
+color:#96c93d;
+}
+.teacher-info-left button {
+   height:43px;
+  width:230px;
+  background-color:#fff;
+  border: 2px solid #1e3148;
+  color: #1e3148;
+  font-family: GothamRounded-Book;
+  font-size: 18px;
+  font-weight: 300;
+ 
+}
+.teacher-info-left-element {
+  text-align:center;
+  margin-right:36px;
+}
+
+.teacher-info-right {
+  background-color:#fffffd;
+  height:500px;
+  padding:25px 0 15px 25px;
+
+}
+.teacher-info-right h1 {
+      margin: 0 0 35px;
+    color: #4a4a4a;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: GothamRounded-Book;
+    font-weight: 300;
+}
+.teacher-info-right-dollar {
+  color: #4a4a4a;
+    font-family: GothamRounded-Medium;
+    font-size: 24px;
+    font-weight: 700;
+}
+.teacher-info-right p {
+  margin:10px 0 0 0 ;
+  color:#757575;
+  font-size:18px;
+  font-weight:350;
+}
+.teacher-info-right-bold-p span {
+  font-weight:500;
+  color:#757575;
+}
+.teacher-info-right button {
+float:right;
+margin:20px 25px 0 0;
+height:59px;
+width:228px;
+border-radius: 10px;
+border: 2px solid #979797;
+background: #fff;
+color: #4a4a4a;
+font-size: 25px;
+font-weight: 400;
+padding: 10px 20px;
+}
+/*end teacher-info*/
+.popular-classes a:hover {
+  text-decoration: none;
+
+}
+.popular-classes {
+  background-color: #edeff0 !important;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.related-course {
+  margin:0 0 100px 0;
+}
+.related-course h1 {
+  text-align:center;
+  font-weight:500;
+  font-size:34px;
+  color:#1e3148;
+}
+.related-course h1 span {
+  color: #96c93d;
+}
+.popular-classes-header {
+  text-align: center;
+  font-size:35px;
+  font-weight:600;
+  padding-bottom:50px;
+}
+.popular-classes-header span {
+  color: #96c93d ;
+}
+.popular-classes-white  img {
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+}
+.popular-classes-white {
+  background-color: #fff;
+  text-align: center;
+  padding: 0 0 25px 0 ;
+}
+.checked {
+  color: #96c93d ;
+}
+.popular-classes-white h1 {
+font-size:20px;
+color:#000!important;
+font-weight:400;
+padding-top:15px
+
+}
+.related-course-head {
+  margin: 0 0 50px 0 ;
+}
+.popular-classes-white h1  a {
+color:#000;
+}
+.popular-classes-white p {
+margin-bottom: 0px;
+margin-top:-3px;
+
+}
+.popular-num-rate {
+  font-weight:300;
+  font-size:11px;
+}
+.popular-classes-header-pop {
+  color:#1e3148!important;
+}
+/*start of popular-classes-black*/
+.popular-classes-black {
+  background-color: #1e3148;
+  height: 270px;
+}
+.popular-classes-black p {
+  height: 150px;
+}
+.popular-classes-black a:hover {
+  text-decoration: none;
+}
+.popular-classes-black-salary {
+background-color: #96c93d;
+color:#fff;
+font-weight:600;
+display: inline-block;
+float:right; 
+margin-top:10px;
+text-align:center;
+padding:1px;
+}
+.popular-classes-black h1 {
+padding-top:21px;
+text-align:center;
+padding-left:18.1px
+}
+.popular-classes-black h1 a {
+color:#fafafa;
+font-size:20px;
+font-weight:500;
+text-align:center;
+}
+.popular-classes-black p {
+color:#6f7072;
+padding-left:25px;
+font-size:17px;
+font-weight:400;
+height: 150px;
+}
+.popular-classes-black-main-fa {
+display:inline-block;
+margin-left:25px;
+color:#fafafa;
+margin-bottom:10px;
+}
+.popular-classes-black-fa {
+display:inline-block;
+color:#fafafa;
+margin-left:2px
+
+}
+.popular-classes-black-end {
+display:inline-block;
+margin-left:10px;
+color:#fafafa;
+font-size:17px;
+font-weight:500
+}
+/*end of RELATED COURSES*/
+/*start footer*/
+.footer-elements {
+  background-color: #1e3148;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.my-footer-logo img{
+  height:94px; 
+  width:170px;
+}
+.my-footer-help {
+color:#fff;
+}
+.my-footer-help a {
+  color:#808080;
+  text-decoration:underline;
+}
+.my-footer-help a:hover {
+color:#757373;
+}
+.my-footer-home a {
+  color:#fff;
+  display:block;
+}
+.my-footer-home a:hover {
+  text-decoration:none;
+}
+.my-footer-download{
+color:#fff;
+}
+.my-footer-download img {
+  height:45px;
+  width:118px;
+  margin-left:7px;
+}
+.my-footer-contact img {
+  padding-left:15px;
+  padding-top:90px;
+
+}
+.my-footer-develop {
+margin-left:57px;
+}
+.my-footer-develop span{
+font-size:17px;
+color:#fff;
+font-weight:400
+}
+.my-footer-develop a {
+color:#808080;
+font-size:17px;
+font-weight:400
+
+
+}
+.my-footer-develop a:hover {
+  color:#757373;
+  text-decoration:none;
+  
+}
+.my-footer-angle {
+  float:right;
+  padding-right:0;
+  background-color:#1b2b40;
+  margin-right:15px;
+  
+}
+.my-footer-angle i {
+  color:#fff;
+  font-size:42px;
+  width:50px;
+  height:50px;
+  text-align:center;
+  
+}
+.my-footer-angle i:hover {
+  background-color:#000;
+}
+/*finally end*/
